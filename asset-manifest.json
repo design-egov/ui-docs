@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ui-docs/static/css/main.a2977502.chunk.css",
-    "main.js": "/ui-docs/static/js/main.83d52004.chunk.js",
-    "main.js.map": "/ui-docs/static/js/main.83d52004.chunk.js.map",
+    "main.css": "/ui-docs/static/css/main.7918262a.chunk.css",
+    "main.js": "/ui-docs/static/js/main.2fcd51c5.chunk.js",
+    "main.js.map": "/ui-docs/static/js/main.2fcd51c5.chunk.js.map",
     "runtime-main.js": "/ui-docs/static/js/runtime-main.269235bf.js",
     "runtime-main.js.map": "/ui-docs/static/js/runtime-main.269235bf.js.map",
     "static/js/2.2a91b1c4.chunk.js": "/ui-docs/static/js/2.2a91b1c4.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.553d57ae.chunk.js": "/ui-docs/static/js/3.553d57ae.chunk.js",
     "static/js/3.553d57ae.chunk.js.map": "/ui-docs/static/js/3.553d57ae.chunk.js.map",
     "index.html": "/ui-docs/index.html",
-    "static/css/main.a2977502.chunk.css.map": "/ui-docs/static/css/main.a2977502.chunk.css.map",
+    "static/css/main.7918262a.chunk.css.map": "/ui-docs/static/css/main.7918262a.chunk.css.map",
     "static/js/2.2a91b1c4.chunk.js.LICENSE.txt": "/ui-docs/static/js/2.2a91b1c4.chunk.js.LICENSE.txt",
     "static/media/Address.5f3b195a.png": "/ui-docs/static/media/Address.5f3b195a.png",
     "static/media/Alert.e21b1da0.png": "/ui-docs/static/media/Alert.e21b1da0.png",
@@ -59,7 +59,8 @@
     "static/media/accessibilityimg1.898c1887.png": "/ui-docs/static/media/accessibilityimg1.898c1887.png",
     "static/media/action.ef7af614.jpg": "/ui-docs/static/media/action.ef7af614.jpg",
     "static/media/alert.94919684.jpg": "/ui-docs/static/media/alert.94919684.jpg",
-    "static/media/banner.c2ee6be9.png": "/ui-docs/static/media/banner.c2ee6be9.png",
+    "static/media/banner.b22ea93a.png": "/ui-docs/static/media/banner.b22ea93a.png",
+    "static/media/colorPalette.31822a93.png": "/ui-docs/static/media/colorPalette.31822a93.png",
     "static/media/communication.16ad1fbc.jpg": "/ui-docs/static/media/communication.16ad1fbc.jpg",
     "static/media/content.cb10d4d6.jpg": "/ui-docs/static/media/content.cb10d4d6.jpg",
     "static/media/file.78d0461a.jpg": "/ui-docs/static/media/file.78d0461a.jpg",
@@ -75,7 +76,7 @@
   "entrypoints": [
     "static/js/runtime-main.269235bf.js",
     "static/js/2.2a91b1c4.chunk.js",
-    "static/css/main.a2977502.chunk.css",
-    "static/js/main.83d52004.chunk.js"
+    "static/css/main.7918262a.chunk.css",
+    "static/js/main.2fcd51c5.chunk.js"
   ]
 }
